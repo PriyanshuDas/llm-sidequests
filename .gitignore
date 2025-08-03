@@ -1,0 +1,33 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.env
+
+# Python (if you add scripts later)
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Other
+*.bak
+*.tmp
+*.swp
